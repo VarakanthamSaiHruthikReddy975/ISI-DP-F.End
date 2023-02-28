@@ -19,7 +19,6 @@ function App() {
       console.error('No file selected!');
       return;
     }
-error15265
     const formData = new FormData();
     formData.append('file', file);
 
